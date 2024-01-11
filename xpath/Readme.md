@@ -1,0 +1,3 @@
+# Ejercicios
+
+Curso académico 
